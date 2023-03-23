@@ -36,6 +36,6 @@
 <h1 align='center'> links 🔗 </h1>
 
 <p align='center'>
-    <a target="_blank" href='https://github.com/deivid-rodrigues/projeto-serie-vikings'>Repositório</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-    <a target="_blank" href='https://deivid-rodrigues.github.io/projeto-serie-vikings/'>Deploy</a>
+    <a href='https://github.com/deivid-rodrigues/projeto-serie-vikings'>Repositório</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+    <a href='https://deivid-rodrigues.github.io/projeto-serie-vikings/'>Deploy</a>
 </>
